@@ -1,0 +1,11 @@
+transaction_id,product,quantity,price
+1,Product A,5,10.99
+2,Product B,3,20.50
+3,Product A,2,9.99
+4,Product C,4,15.75
+5,Product B,6,22.00
+6,Product A,8,11.50
+7,Product C,3,14.25
+8,Product A,10,12.75
+9,Product B,4,21.00
+10,Product C,7,16.50
